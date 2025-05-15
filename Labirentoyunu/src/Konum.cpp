@@ -1,4 +1,4 @@
-
+#include "Konum.hpp"
 
 Konum::Konum(int x,int y, Yon yon){
 	this->x = x;
